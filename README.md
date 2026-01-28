@@ -54,9 +54,7 @@ This platform can be used by:
 - Role-based dashboards
 - Cloud deployment
 
-## 📎 Project Links
-- Live Demo: [Add Live Link]
-- GitHub Repository: [Add GitHub Link]
+ 
 
 ---
 
